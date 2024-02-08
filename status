@@ -1,0 +1,622 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://gravurhuette.de
+Site address (URL): https://gravurhuette.de
+WC Version: 8.5.2
+REST API Version: ✔ 8.5.2
+WC Blocks Version: ✔ 11.8.0-dev
+Action Scheduler Version: ✔ 3.7.1
+Log Directory Writable: ✔
+WP Version: 6.4.3
+WP Multisite: –
+WP Memory Limit: 1 GB
+WP Debug Mode: –
+WP Cron: ✔
+Language: de_DE_formal
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 8.1.27
+PHP Post Max Size: 2 GB
+PHP Time Limit: 600
+PHP Max Input Vars: 3000
+cURL Version: 7.61.1
+OpenSSL/1.1.1k
+
+SUHOSIN Installed: –
+MySQL Version: 10.3.37-MariaDB-cll-lve
+Max Upload Size: 2 GB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 8.5.2
+WC Database Prefix: O2OROZyzA_
+Datenbank-Gesamtgröße: 130.90MB
+Datenbank-Datengröße: 115.81MB
+Datenbank-Indexgröße: 15.09MB
+O2OROZyzA_woocommerce_sessions: Daten: 1.36MB + Index: 0.08MB + Engine MyISAM
+O2OROZyzA_woocommerce_api_keys: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_attribute_taxonomies: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_downloadable_product_permissions: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_order_items: Daten: 0.01MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_order_itemmeta: Daten: 0.12MB + Index: 0.05MB + Engine MyISAM
+O2OROZyzA_woocommerce_tax_rates: Daten: 0.01MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_tax_rate_locations: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_shipping_zones: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_shipping_zone_locations: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_shipping_zone_methods: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_payment_tokens: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_payment_tokenmeta: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_log: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_actionscheduler_actions: Daten: 1.06MB + Index: 0.36MB + Engine MyISAM
+O2OROZyzA_actionscheduler_claims: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_actionscheduler_groups: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_actionscheduler_logs: Daten: 1.52MB + Index: 0.36MB + Engine InnoDB
+O2OROZyzA_addonlibrary_addons: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_b2s_posts: Daten: 0.08MB + Index: 0.14MB + Engine InnoDB
+O2OROZyzA_b2s_user: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_b2s_user_contact: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_borlabs_cookie_consent_log: Daten: 0.05MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_borlabs_cookie_content_blocker: Daten: 0.05MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_borlabs_cookie_cookies: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_borlabs_cookie_groups: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_borlabs_cookie_script_blocker: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_bv_activities_store: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_bv_fw_requests: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_bv_ip_store: Daten: 0.30MB + Index: 0.22MB + Engine InnoDB
+O2OROZyzA_bv_lp_requests: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_categorymeta: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_cmap_endpoints: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_commentmeta: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_comments: Daten: 0.01MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_commercekit_searches: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_commercekit_waitlist: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_commercekit_wishlist: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_edd_adjustments: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_edd_customers: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_edd_customer_addresses: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_edd_logmeta: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_edd_logs: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_edd_notes: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_edd_notifications: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_edd_orders: Daten: 0.02MB + Index: 0.13MB + Engine InnoDB
+O2OROZyzA_edd_order_addresses: Daten: 0.02MB + Index: 0.09MB + Engine InnoDB
+O2OROZyzA_edd_order_itemmeta: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_edd_order_items: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_e_events: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_e_notes: Daten: 0.02MB + Index: 0.17MB + Engine InnoDB
+O2OROZyzA_e_notes_users_relations: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_e_submissions: Daten: 0.02MB + Index: 0.27MB + Engine InnoDB
+O2OROZyzA_e_submissions_actions_log: Daten: 0.02MB + Index: 0.11MB + Engine InnoDB
+O2OROZyzA_e_submissions_values: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_frm_fields: Daten: 0.09MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_frm_forms: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_frm_items: Daten: 0.02MB + Index: 0.09MB + Engine InnoDB
+O2OROZyzA_frm_item_metas: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_gf_entry: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_gf_form: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_gf_form_meta: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_gf_form_view: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_gla_attribute_mapping_rules: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_gla_budget_recommendations: Daten: 0.19MB + Index: 0.14MB + Engine InnoDB
+O2OROZyzA_gla_merchant_issues: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_gla_shipping_rates: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_gla_shipping_times: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_lepopup_campaigns: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_campaign_items: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_fieldvalues: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_forms: Daten: 1.52MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_geoip: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_records: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_stats: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_targets: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_transactions: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_uploads: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_validations: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_lepopup_webfonts: Daten: 0.13MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_links: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_magicform_forms: Daten: 0.30MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_magicform_notifications: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_magicform_products: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_magicform_submissions: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_member_catmeta: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_options: Daten: 7.30MB + Index: 0.22MB + Engine MyISAM
+O2OROZyzA_patchstack_event_log: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_patchstack_firewall_log: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_patchstack_logic: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_postmeta: Daten: 68.67MB + Index: 1.06MB + Engine MyISAM
+O2OROZyzA_posts: Daten: 23.35MB + Index: 0.22MB + Engine MyISAM
+O2OROZyzA_po_plugins: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_ppress_coupons: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_ppress_customers: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_ppress_forms: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_ppress_formsmeta: Daten: 0.06MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_ppress_meta_data: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_ppress_ordermeta: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_ppress_orders: Daten: 0.02MB + Index: 0.13MB + Engine InnoDB
+O2OROZyzA_ppress_plans: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_ppress_sessions: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_ppress_subscriptions: Daten: 0.02MB + Index: 0.09MB + Engine InnoDB
+O2OROZyzA_pwp_wco_history_prices: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_rank_math_404_logs: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_rank_math_analytics_ga: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_rank_math_analytics_gsc: Daten: 2.52MB + Index: 5.94MB + Engine InnoDB
+O2OROZyzA_rank_math_analytics_inspections: Daten: 1.52MB + Index: 0.11MB + Engine InnoDB
+O2OROZyzA_rank_math_analytics_keyword_manager: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_rank_math_analytics_objects: Daten: 0.11MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_rank_math_internal_links: Daten: 1.52MB + Index: 0.34MB + Engine InnoDB
+O2OROZyzA_rank_math_internal_meta: Daten: 0.06MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_rank_math_redirections: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_rank_math_redirections_cache: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_rg_form: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_rg_form_meta: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_rg_lead: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_rg_lead_detail: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_rg_lead_meta: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_rg_lead_notes: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_rtg_attachments: Daten: 0.06MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_snippets: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_social_users: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_statistics_exclusions: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_statistics_historical: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_statistics_pages: Daten: 0.04MB + Index: 0.10MB + Engine MyISAM
+O2OROZyzA_statistics_search: Daten: 0.02MB + Index: 0.02MB + Engine MyISAM
+O2OROZyzA_statistics_useronline: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_statistics_visit: Daten: 0.01MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_statistics_visitor: Daten: 0.71MB + Index: 0.91MB + Engine MyISAM
+O2OROZyzA_storeabill_documentmeta: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_storeabill_documents: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_storeabill_document_itemmeta: Daten: 0.05MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_storeabill_document_items: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_storeabill_document_noticemeta: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_storeabill_document_notices: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_storeabill_journals: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_termmeta: Daten: 0.02MB + Index: 0.02MB + Engine MyISAM
+O2OROZyzA_terms: Daten: 0.01MB + Index: 0.02MB + Engine MyISAM
+O2OROZyzA_term_relationships: Daten: 0.01MB + Index: 0.03MB + Engine MyISAM
+O2OROZyzA_term_taxonomy: Daten: 0.01MB + Index: 0.02MB + Engine MyISAM
+O2OROZyzA_usermeta: Daten: 0.11MB + Index: 0.05MB + Engine MyISAM
+O2OROZyzA_users: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wc_admin_notes: Daten: 0.08MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wc_admin_note_actions: Daten: 0.04MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wc_category_lookup: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_wc_customer_lookup: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wc_download_log: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_wc_orders: Daten: 0.02MB + Index: 0.13MB + Engine InnoDB
+O2OROZyzA_wc_orders_meta: Daten: 0.08MB + Index: 0.13MB + Engine InnoDB
+O2OROZyzA_wc_order_addresses: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_wc_order_coupon_lookup: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_wc_order_operational_data: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_wc_order_product_lookup: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wc_order_stats: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wc_order_tax_lookup: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_wc_product_attributes_lookup: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_wc_product_download_directories: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_wc_product_meta_lookup: Daten: 0.01MB + Index: 0.03MB + Engine MyISAM
+O2OROZyzA_wc_rate_limits: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_wc_reserved_stock: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_wc_tax_rate_classes: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wc_webhooks: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_wdr_rules: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_wishsuite_list: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_wlea_scheduled_tasks: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_woocatalog_contact: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_woocommerce_gzd_dhl_im_products: Daten: 0.04MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_dhl_im_product_services: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_dhl_labelmeta: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_dhl_labels: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_packaging: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_packagingmeta: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipmentmeta: Daten: 0.01MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipments: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipment_itemmeta: Daten: 0.01MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipment_items: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipment_labelmeta: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipment_labels: Daten: 0.00MB + Index: 0.00MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipping_provider: Daten: 0.00MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_woocommerce_gzd_shipping_providermeta: Daten: 0.02MB + Index: 0.01MB + Engine MyISAM
+O2OROZyzA_wow_mwp: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_wpforms_entries: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_wpforms_entry_fields: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_wpforms_entry_meta: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_wpforms_payments: Daten: 0.02MB + Index: 0.14MB + Engine InnoDB
+O2OROZyzA_wpforms_payment_meta: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_wpforms_tasks_meta: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_wpf_meta_keys: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_wpf_meta_values: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_wpo_wccm_customermeta: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_wpo_wccm_customers: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_wpo_wccm_customer_notes: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_wpr_image_optimization: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_wpr_rocket_cache: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_wpr_rucss_used_css: Daten: 0.02MB + Index: 0.09MB + Engine InnoDB
+O2OROZyzA_yith_wcwl: Daten: 0.06MB + Index: 0.02MB + Engine InnoDB
+O2OROZyzA_zbs_customfields: Daten: 0.02MB + Index: 0.05MB + Engine InnoDB
+O2OROZyzA_zbs_events: Daten: 0.02MB + Index: 0.06MB + Engine InnoDB
+O2OROZyzA_zbs_forms: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_zbs_notifications: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_zbs_object_links: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_zbs_segments: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_zbs_settings: Daten: 0.02MB + Index: 0.03MB + Engine InnoDB
+O2OROZyzA_zbs_tracking: Daten: 0.02MB + Index: 0.00MB + Engine InnoDB
+O2OROZyzA_zbs_transactions: Daten: 0.02MB + Index: 0.14MB + Engine InnoDB
+UJRose_comments: Daten: 0.02MB + Index: 0.08MB + Engine InnoDB
+UJRose_term_relationships: Daten: 0.02MB + Index: 0.02MB + Engine InnoDB
+
+### Post Type Counts ###
+
+attachment: 346
+auto-print-templates: 1
+blocks: 15
+business-hours: 1
+custom_css: 7
+customize_changeset: 44
+document_template: 8
+dtwcbe_woo_library: 5
+elementor_library: 46
+fpf_fields: 36
+frm_form_actions: 6
+frm_styles: 2
+gpsc_slider_carousel: 1
+ha_library: 1
+jet-woo-builder: 1
+nav_menu_item: 30
+oembed_cache: 90
+page: 42
+popup: 1
+popup_theme: 8
+porto_builder: 8
+post: 5
+ppb_popup: 1
+product: 37
+revision: 1065
+seedprod: 1
+shop_coupon: 4
+shop_order: 4
+szbdzones: 1
+testimonial: 11
+testimonial_rotator: 1
+tm_global_cp: 33
+us_content_template: 198
+us_grid_layout: 5
+us_header: 2
+us_page_block: 3
+ux_template: 1
+vtprd-rule: 1
+wa_wps: 6
+whatsapp-accounts: 1
+woolentor-template: 4
+wp_block: 1
+wp_global_styles: 2
+wpforms: 1
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (46) ###
+
+All-In-One WP Business Hours: von MYWPDev – 1.12.0
+Analytics Insights: von DeConf – 6.3.4
+Borlabs Cookie - Cookie Opt-in: von Borlabs GmbH – 2.3.0.18
+AccelerateWP: von CloudLinux – 3.15.4-1.1-13
+Cost of Goods for WooCommerce: von WPFactory – 3.2.5
+Duplicate Page: von mndpsingh287 – 4.5.3
+Elementor Pro: von Elementor.com – 3.19.0
+Elementor: von Elementor.com – 3.19.2
+Formidable Forms Pro: von Strategy11 – 6.8
+Formidable Forms: von Strategy11 Form Builder Team – 6.8
+Google Listings and Ads: von WooCommerce – 2.5.17
+Head, Footer and Post Injections: von Stefano Lissa – 3.2.7
+Loco Translate: von Tim Whitlock – 2.6.6
+Login Logout Register Menu: von Vinod Dalvi – 2.0
+MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Firewall: von MalCare Security – 5.47
+Patchstack Security: von Patchstack – 2.2.8
+PerfectWP - WC Omnibus: von PerfectWP – 1.1.0
+Premium Addons for Elementor: von Leap13 – 4.10.18
+Premium Addons PRO: von Leap13 – 2.9.11
+Rank Math SEO PRO: von Rank Math – 3.0.51
+Rank Math SEO: von Rank Math – 1.0.213-beta
+SKU Generator for WooCommerce: von WP Wham – 1.6.1
+Smart Product Review For WooCommerce: von CodeFlist – 2.0.3
+Sw Product Bundles: von wpthemego – 2.2.3
+Sw tools plugin: von wpthemego – 1.0.2
+SW Ajax WooCommerce Search: von smartaddons.com – 1.3.1
+SW Core: von Smartaddons – 1.7.16
+SW List Store: von WpThemeGo – 1.0.1
+Sw Product Brand: von WpThemeGo – 1.0.10
+Sw Vendor Slider: von SmartAddons – 1.1.4
+Sw Woocommerce: von SmartAddons – 1.8.6
+Sw Woocommerce Swatches: von SmartAddons – 1.0.19
+Ultimate Addons for Elementor: von Brainstorm Force – 1.36.29
+WebP Express: von Bjørn Rosell – 0.25.8
+WhatsApp Chat by NinjaTeam: von NinjaTeam – 3.4.6
+WPC Frequently Bought Together for WooCommerce: von WPClever – 6.2.5
+Product Feed PRO for WooCommerce: von AdTribes.io – 13.2.4
+WooCommerce Boost Sales Premium: von VillaTheme – 1.5.2
+WooCommerce Page Builder For Elementor: von DawnThemes – 1.1.6.7
+WooCoommerce Kunden-Manager: von WP Overnight – 2.7.1
+WooCommerce Stripe-Gateway: von WooCommerce – 7.9.1
+Germanized für WooCommerce Pro: von vendidero – 3.9.0
+Germanized für WooCommerce: von vendidero – 3.15.6
+Extra Product Options & Add-Ons for WooCommerce: von ThemeComplete – 6.4.2
+WooCommerce: von Automattic – 8.5.2
+WooCommerce Products Revolution for Elementor: von AD-Theme – 1.0
+
+### Inactive Plugins (5) ###
+
+Beeketing For WooCommerce: von Beeketing – 3.8.16
+Disable Gutenberg: von Jeff Starr – 3.1
+WooCommerce Blocks: von Automattic – 11.7.0
+WooCommerce Bulk Discount: von Rene Puchinger – 3.0
+WP Sort Order: von Fahad Mahmood – 1.3.2
+
+### Dropin Plugins (2) ###
+
+advanced-cache.php: advanced-cache.php
+maintenance.php: maintenance.php
+
+### Must Use Plugins (2) ###
+
+Elementor Safe Mode: von Elementor.com – 1.0.0
+_patchstack.php: von  –
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: EUR (€)
+Currency Position: right_space
+Thousand Separator: .
+Decimal Separator: ,
+Number of Decimals: 2
+Taxonomies: Product Types: bundle (bundle)
+external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+wbs_bundle (wbs_bundle)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to Woo.com: ✔
+Enforce Approved Product Download Directories: –
+HPOS feature screen enabled: –
+HPOS feature enabled: –
+Order datastore: WC_Order_Data_Store_CPT
+HPOS data sync enabled: ✔
+
+### WC Pages ###
+
+Shop-Basis: #12 - /shop-2/
+Warenkorb: #323 - /warenkorb/
+Kasse: #319 - /kasse/
+Ihr Konto: #1556 - /my-account/
+Allgemeine Geschäftsbedingungen: #388 - /agb/
+
+### Theme ###
+
+Name: Flashmart
+Version: 2.0.15
+Author URL: https://themeforest.net/user/magentech/
+Child Theme: ❌ – Wenn Sie WooCommerce mit einem Theme
+das Sie nicht selbst entwickelt haben
+an eigene Bedürfnisse anpassen
+dann empfehlen wir die Verwendung eines Child-Themes. Siehe Wie Sie ein Child-Theme erstellen (engl.)
+
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: flashmart/woocommerce/archive-product.php
+flashmart/woocommerce/content-product.php
+flashmart/woocommerce/content-single-product.php
+flashmart/woocommerce/loop/loop-end.php
+flashmart/woocommerce/loop/loop-start.php
+flashmart/woocommerce/loop/rating.php
+flashmart/woocommerce/myaccount/dashboard.php
+flashmart/woocommerce/myaccount/form-login.php
+flashmart/woocommerce/single-product/meta.php
+flashmart/woocommerce/single-product/price.php
+flashmart/woocommerce/single-product/product-image.php Version 6.8.0 ist veraltet. Die Hauptversion ist 7.8.0
+flashmart/woocommerce/single-product/product-thumbnails.php
+flashmart/woocommerce/single-product/rating.php
+flashmart/woocommerce/single-product/tabs/tabs.php
+flashmart/single-product.php
+
+Outdated Templates: ❌
+					
+					
+						Erfahren Sie
+wie Sie aktualisieren können
+
+
+### SKU Generator Settings ###
+
+SKU Generator for WooCommerce: yes
+Number generation: product_id
+Sequential number generation counter: 1
+Prefix: AUG
+Minimum number length: 6
+Suffix: AS
+Variable products variations: as_variation
+Template: {category_prefix}{tag_prefix}{prefix}{sku_number}{suffix}{tag_suffix}{category_suffix}{variation_suffix}
+Automatically generate SKU for new products: yes
+Delay SKU generation till product is published: yes
+Generate SKUs only for products with empty SKU: no
+Allow duplicate SKUs: no
+Search by SKU: yes
+Search by SKU: Algorithm: posts_search
+Add SKU to customer emails: no
+Enable/Disable: no
+Sequential numbering on per category basis: no
+Use Yoast primary categories: no
+Aufkleber: 
+Suffix: 
+Counter: 
+Becher: 
+Suffix: 
+Counter: 1
+Deko: 
+Suffix: 
+Counter: 1
+Eigene Artikel gravieren: 
+Suffix: 
+Counter: 
+Flachmann: 
+Suffix: 
+Counter: 1
+Flaschen: 
+Suffix: 
+Counter: 1
+Flaschen & Becher: 
+Suffix: 
+Counter: 1
+Geschenkideen: 
+Suffix: 
+Counter: 
+Gravuren: 
+Suffix: 
+Counter: 
+Handyhalter: 
+Suffix: 
+Counter: 1
+Holzartikel: 
+Suffix: 
+Counter: 1
+Kalender: 
+Suffix: 
+Counter: 
+Kugelschreiber: 
+Suffix: 
+Counter: 
+Liebesschloss: 
+Suffix: 
+Counter: 
+Organizer: 
+Suffix: 
+Counter: 1
+Schilder: 
+Suffix: 
+Counter: 
+Schilder & Aufkleber: 
+Suffix: 
+Counter: 
+Schlüsselanhänger: 
+Suffix: 
+Counter: 
+Schneidebrett: 
+Suffix: 
+Counter: 1
+Schneidebrett: 
+Suffix: 
+Counter: 
+Taschen/Schachteln/Boxen: 
+Suffix: 
+Counter: 1
+Tortentopper: 
+Suffix: 
+Counter: 
+Tortentopper: 
+Suffix: 
+Counter: 
+Unkategorisiert: 
+Suffix: 
+Counter: 1
+Zippo: 
+Suffix: 
+Counter: 
+Enable/Disable: no
+Becher: 
+Suffix: 
+Gravuren: 
+Suffix: 
+Holzartikel: 
+Suffix: 
+Laser Wood: 
+Suffix: 
+
+### Admin ###
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-variation-management
+product-virtual-downloadable
+product-external-affiliate
+product-grouped
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+
+Disabled Features: customize-store
+minified-js
+new-product-management-experience
+product-linked
+settings
+async-product-editor-category-field
+
+Daily Cron: ✔ Next scheduled: 2024-02-08 22:55:15 +01:00
+Options: ✔
+Notes: 201
+Onboarding: completed
+
+### Action Scheduler ###
+
+Complete: 245
+Oldest: 2024-01-10 10:14:13 +0100
+Newest: 2024-02-08 12:58:29 +0100
+
+Failed: 1.927
+Oldest: 2022-03-29 15:37:34 +0200
+Newest: 2024-02-07 22:15:57 +0100
+
+Pending: 8
+Oldest: 2024-02-09 04:00:00 +0100
+Newest: 2024-02-11 13:21:04 +0100
+
+
+### Status report information ###
+
+Generated at: 2024-02-08 21:45:16 +01:00
+`
